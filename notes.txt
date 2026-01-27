@@ -1,3 +1,0 @@
-This is a sample note for chem169-git repository.
-Another line of notes.
-Edited from GitHub interface.

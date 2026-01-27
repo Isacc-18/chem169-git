@@ -1,1 +1,0 @@
-This is my own attempt at making a text file in the repo.
